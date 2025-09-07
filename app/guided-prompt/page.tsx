@@ -333,7 +333,7 @@ export default function GuidedPromptPage() {
       <div className="min-h-screen bg-gradient-to-br from-background via-card to-muted p-4">
         <div className="max-w-4xl mx-auto pt-20">
           <Link href="/">
-            <Button variant="ghost" className="mb-8 hover:bg-primary/10">
+            <Button variant="ghost" className="mb-8 hover:bg-primary/10 hover:text-black">
               <ArrowLeft className="w-4 h-4 mr-2" />
               Back to Home
             </Button>

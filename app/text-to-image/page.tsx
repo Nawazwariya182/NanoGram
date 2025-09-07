@@ -168,7 +168,7 @@ export default function TextToImagePage() {
       <div className="p-4">
         <div className="max-w-7xl mx-auto">
           <Link href="/">
-            <Button variant="ghost" className="mb-4 hover:bg-primary/10">
+            <Button variant="ghost" className="mb-4 hover:bg-primary/10 hover:text-black">
               <ArrowLeft className="w-4 h-4 mr-2" />
               Back to Home
             </Button>

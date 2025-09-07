@@ -195,7 +195,7 @@ export default function PhotoRestorePage() {
             </Link>
 
             <Link href="/">
-              <Button variant="ghost" size="sm" className="gap-2">
+              <Button variant="ghost" size="sm" className="gap-2 hover:bg-primary/10 hover:text-black">
                 <ArrowLeft className="w-4 h-4" />
                 Back to Home
               </Button>

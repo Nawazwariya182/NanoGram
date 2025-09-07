@@ -357,7 +357,7 @@ export default function TemplatesPage() {
       <div className="min-h-screen bg-gradient-to-br from-background via-card to-muted">
         <div className="p-4">
           <div className="max-w-4xl mx-auto">
-            <Button variant="ghost" onClick={resetTemplate} className="mb-4 hover:bg-primary/10">
+            <Button variant="ghost" onClick={resetTemplate} className="mb-4 hover:bg-primary/10 hover:text-black">
               <ArrowLeft className="w-4 h-4 mr-2" />
               Back to Templates
             </Button>

@@ -159,7 +159,7 @@ export default function HomePage() {
                 <Button
                   variant="outline"
                   size="lg"
-                  className="text-lg px-8 py-6 glass border-primary/20 hover:bg-primary/5 transform hover:scale-105 transition-all duration-300 bg-transparent"
+                  className="text-lg px-8 py-6 glass border-primary/20 hover:bg-primary/5 transform hover:scale-105 hover:text-black transition-all duration-300 bg-transparent"
                 >
                   View Templates
                   <Stars className="ml-2 w-5 h-5" />
